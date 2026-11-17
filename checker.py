@@ -77,3 +77,5 @@ report =(f"Tickets Loaded: {len(rows)}\n"
 with open ("report.txt", "w") as file:
     file.write(report)
 
+
+#update to see if it works
