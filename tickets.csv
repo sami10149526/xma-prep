@@ -1,0 +1,34 @@
+ticket_id,title,description,category,hours_open
+T101,Printer jam,Floor 2 printer jammed,Hardware,12
+T102,Forgot password,Locked out of email,Password,50
+T103,VPN connection error,Cannot connect from home,Network,24
+T104,Excel crashing,Keeps crashing on startup,Software,6
+T105,Badge access expired,Front door badge not working,Access,10
+T106,Monitor flicker,Screen flickers constantly,Hardware,36
+T107,Outlook sync issue,Emails not loading,Software,15
+T108,Mouse failure,Left click is broken,,18
+T109,Wifi drop,Conference room wifi keeps dropping,Network,55
+T110,Password reset,Need to reset domain password,Password,4
+T111,Slow laptop,Boot time is very slow,Hardware,unknown
+T112,Shared drive access,Cannot access finance folder,Access,12
+T113,Teams crashing,Video call crashes app,Software,22
+T114,Printer toner low,Room 402 printer needs toner,Hardware,72
+T115,Keyboard replacement,Keys sticking on keyboard,,30
+T116,Ethernet port dead,Wall port has no link light,Network,5
+T117,Account lockout,Locked out after vacation,Password,14
+T118,Software install,Requesting Adobe Acrobat,Software,40
+T119,Bad badge reader,Cafeteria scanner failing,Access,16
+T120,Headset static,Audio has loud buzzing noise,Hardware,65
+T121,VPN slow,Connection is extremely sluggish,Network,25
+T122,Password expiration warning,Prompt appears daily,,9
+T123,Word formatting bug,Margins shifting automatically,Software,3
+T124,Guest network access,Client needs temp wifi login,Access,11
+T125,Server unreachable,Main database backup failed,Network,80
+T105,Monitor broken,Cracked screen on desk,Hardware,5
+T112,VPN cert error,Certificate expired on laptop,Network,19
+T120,Desk phone silent,Phone does not ring,Hardware,2
+T126,Missing files,Deleted folder recovery request,Software,14
+T127,Keyboard keys missing,Spacebar fell off,,21
+T128,Password reset portal,Portal page is blank,Password,7
+T129,Dual monitor setup,Second screen not detected,Hardware,10
+T130,Conference mic failure,Boardroom microphone muted,Hardware,28

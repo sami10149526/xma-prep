@@ -1,0 +1,5 @@
+Tickets Loaded: 33
+Duplicate IDs: T105, T112, T120
+Missing Category: T108, T115, T122, T127
+Overdue (Over 48h open): T102, T109, T114, T120, T125
+Bad hours tickets: T111
